@@ -1,0 +1,135 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#f5f7fb;
+    font-family:'Poppins',sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
+
+.otp-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+}
+
+.otp-card{
+    width:560px;
+    background:#fff;
+    border-radius:25px;
+    padding:45px;
+    text-align:center;
+    box-shadow:0 20px 50px rgba(0,0,0,.12);
+}
+
+/* Logo */
+
+.otp-logo{
+    width:60px;
+    height:60px;
+    margin:0 auto 20px;
+    border-radius:50%;
+    background:#2962ff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+}
+
+
+.otp-card h2{
+    margin:18px 0 10px;
+    font-size:24px;
+    font-weight:700;
+}
+
+.subtitle{
+    font-size:15px;
+    color:#666;
+    line-height:24px;
+    margin-bottom:25px;
+}
+
+/* OTP */
+
+.otp-inputs{
+    display:flex;
+    justify-content:center;
+    gap:12px;
+    margin:25px 0;
+}
+
+.otp-inputs input{
+    width:75px;
+    height:75px;
+    border:2px solid #d8d8d8;
+    border-radius:14px;
+    background:#fff;
+    text-align:center;
+    font-size:32px;
+    font-weight:600;
+    color:#222;
+    outline:none;
+    transition:0.3s;
+}
+
+.otp-inputs input:focus{
+    border-color:#4F6DFF;
+    box-shadow:0 0 0 4px rgba(79,109,255,.15);
+}
+
+
+/* Resend */
+
+.resend{
+    color:#666;
+    margin-bottom:30px;
+}
+
+.resend a{
+    text-decoration:none;
+    color:#2962ff;
+    font-weight:600;
+}
+
+/* Buttons */
+.button-group{
+    display:flex;
+    gap:15px;
+    margin-top:25px;
+}
+
+.cancel-btn,
+.verify-btn{
+    flex:1;
+    height:55px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:10px;
+    text-decoration:none;
+    font-size:16px;
+}
+
+.cancel-btn{
+    border:1px solid #d8d8d8;
+    background:#fff;
+    color:#444;
+}
+
+.verify-btn{
+    border:none;
+    background:#2962ff;
+    color:#fff;
+}
+
+.verify-btn:hover{
+    background:#0d5be1;
+}
