@@ -38,7 +38,7 @@ SecretCoder is a responsive E-Learning web application developed using *PHP, MyS
 
 *Server*
 - XAMPP / Apache
-## 📸 Screenshots
+## 📸 Preview
 
 ### Sign Up
 ![Sign Up](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/signup.png)
@@ -62,7 +62,7 @@ SecretCoder is a responsive E-Learning web application developed using *PHP, MyS
 ![Courses](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/courses.png)
 
 ### Payment
-![Payment](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/payment.png)
+![Payment](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/payment1.png)
 
 ### My Purchase
 ![My Purchase](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/mypurchase.png)
@@ -75,3 +75,24 @@ SecretCoder is a responsive E-Learning web application developed using *PHP, MyS
 
 ### Contact
 ![Contact](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/contact.png)
+
+
+## ⚙️ Installation
+### Database
+![Contact](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/database.png)
+1. Install *XAMPP*.
+2. Copy the project into the *htdocs* folder.
+3. Start *Apache* and *MySQL*.
+4. Open *phpMyAdmin*.
+5. Create a new database.
+6. Import the SQL file *secretcoder.sql*
+7. Update the database credentials in config.php.
+8. Run the project:
+
+
+http://localhost/secretcoder/login.php
+
+## 👩‍💻 Developed By
+
+*Karishma Salian*
+
