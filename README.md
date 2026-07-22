@@ -53,10 +53,10 @@ SecretCoder is a responsive E-Learning web application developed using *PHP, MyS
 ![OTP](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/otp.png)
 
 ### Reset Password
-![Reset Password](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/reset-password.png)
+![Reset Password](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/reset.png)
 
 ### Dashboard
-![Dashboard](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/dashboard.png)
+![Dashboard](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/mydash.png)
 
 ### Courses
 ![Courses](https://github.com/karishma24-Itsme/SecretCoder-E-Learning/blob/main/courses.png)
